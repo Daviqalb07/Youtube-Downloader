@@ -1,5 +1,4 @@
-from pytube import YouTube, exceptions
-from urllib import request
+from pytube import YouTube
 import os
 import platform
 
